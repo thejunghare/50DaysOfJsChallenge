@@ -1,23 +1,3 @@
-<!--
-<ul>
-    <li>
-        <h3>Javascript function used</h3>
-    </li>
-    <ol>
-        <li> <strong>Math.floor() :</strong> This function returns a number down to the nearest integer.
-            <br>
-            Example: <code> </code>
-        </li>
-        <li>
-            <strong>Math.random() : </strong> 
-            <br>
-            
-            <br>
-            Example: <code> </code>
-        </li>
-    </ol>
-</ul> -->
-
 <h2>#50DaysofJavascriptChallenge - Day 1</h2>
 
 <h3>TODO: Create a function which returns a random number in the given range of values both inclusive</h3>
