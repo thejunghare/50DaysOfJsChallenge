@@ -9,7 +9,7 @@
     <li>reverseAString("codedamn") should return "nmadedoc"</li>
 </ul>
 
-<h4>function used</h4>
+<h4>Function used</h4>
 <ul>
     <li> <strong>split() :</strong> This function splits an string into an array of substrings.
         <pre><code>let str = 'JavaScript'
