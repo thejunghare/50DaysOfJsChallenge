@@ -1,6 +1,6 @@
-<h1>Write a program to reverse a string</h1>
+<h1>#50DAYSOFJAVASCRIPTCHALLENGE -  DAY 2</h1>
 
-<h3> TODO: Create a function which returns a random number in the given range of values both inclusive </h3>
+<h3>TODO: Write a program to reverse a string</h3>
 <ul>
     <li>
         <h3>Test case</h3>
