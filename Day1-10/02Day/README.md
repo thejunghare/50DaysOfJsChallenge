@@ -12,25 +12,22 @@
 <h3>function used</h3>
 <ul>
     <li> <strong>split() :</strong> This function splits an string into an array of substrings.
-        <pre><code>
-            let str = 'JavaScript'
-            console.log(str.split(" "))
-            // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r',]
-        </code></pre>
-    </li>
+        <pre><code>let str = 'JavaScript'
+console.log(str.split(" "))
+// expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r', 'i', 'p', 't'] </code></pre>
+</li>
     <li><strong>reverse() : </strong> This function reverse an given array.
-        <pre><code>
-            console.log(Math.random())
-            // expected output: Any random value from 0 - 1
-        </code></pre>
-    </li>
+        <pre><code>const arr = ['J', 'a', 'v', 'a', 'S', 'c', 'r', 'i', 'p', 't']
+console.log(arr.reverse())
+// expected output: ['t', 'p', 'i', 'r', 'c', 's', 'a', 'v', 'a', 'J']</code></pre>
+
+</li>
     <li>
         <strong>join() : </strong> This function returns an array as string
-        <pre><code>
-            console.log(Math.random())
-            // expected output: Any random value from 0 - 1
-        </code></pre>
-    </li>
+        <pre><code>const arr = ['t', 'p', 'i', 'r', 'c', 's', 'a', 'v', 'a', 'J']
+console.log(arr.join(" "))
+// expected output: tpircSavaJ </code></pre>
+</li>
 </ul>
 
 <strong>
