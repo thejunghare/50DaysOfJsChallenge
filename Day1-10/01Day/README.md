@@ -24,7 +24,7 @@
             <br>
             <strong>NOTE: </strong> <i>Here 0 is inclusive and 1 is exclusive</i>
             <br>
-            Example: <code>console.log(Math.random()) // expected output: 1</code>
+            Example: <code>console.log(Math.random()) // expected output: Any random value from 0 - 1</code>
         </li>
     </ol>
 </ul>
