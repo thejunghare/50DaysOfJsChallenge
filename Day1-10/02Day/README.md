@@ -18,13 +18,11 @@
     <ol>
         <li> <strong>split() :</strong> This function splits an string into an array of substrings.
             <br>
-            <p>Example:
-                <code>
+            <code>
                     let str = 'JavaScript' <br>
                     console.log(str.split(" ")) ,<br>
                     // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r', 'i', 'p', 't']
-                </code>
-            </p>
+            </code>
         </li>
         <li>
             <strong>reverse() : </strong> This function reverse an given array.
