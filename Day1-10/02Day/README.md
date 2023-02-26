@@ -20,8 +20,8 @@
             <br>
             Example:
             <code>
-                let str = 'JavaScript'
-                console.log(str.split(str))
+                let str = 'JavaScript' <br>
+                console.log(str.split(str)) ,<br>
                 // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r', 'i', 'p', 't']
             </code>
         </li>
