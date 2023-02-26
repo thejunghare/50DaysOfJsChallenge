@@ -4,11 +4,11 @@
 <h4>Function Learned in day 1 - 10</h4>
 
 <ul>
-    <li><pre><code>Math.floor()</code></pre></li>
-    <li><pre><code>Math.random</code></pre></li>
-    <li><pre><code>Math.split()</code></pre></li>
-    <li><pre><code>Math.reverse()</code></pre></li>
-    <li><pre><code>Math.join()</code></pre></li>
+    <li><pre><code>Math.floor() //  returns down number to nearset integer</code></pre></li>
+    <li><pre><code>Math.random() // returns random from 0 -1</code></pre></li>
+    <li><pre><code>Math.split() // splits a string into a array of substrings</code></pre></li>
+    <li><pre><code>Math.reverse() // reverse an array</code></pre></li>
+    <li><pre><code>Math.join() // returns an array as string</code></pre></li>
 </ul>
 
 <strong>
