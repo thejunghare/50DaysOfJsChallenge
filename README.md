@@ -13,15 +13,18 @@
 
 <ul><li><h4>Function Learned in day 1 - 10</h4></li></ul>
 
-<ul>
+<ol>
     <li><pre><code>Math.floor() //  returns down number to nearset integer</code></pre></li>
     <li><pre><code>Math.random() // returns random from 0 -1</code></pre></li>
     <li><pre><code>Math.split() // splits a string into a array of substrings</code></pre></li>
     <li><pre><code>Math.reverse() // reverse an array</code></pre></li>
     <li><pre><code>Math.join() // returns an array as string</code></pre></li>
-</ul>
+</ol>
 
 <ul><li><h4>Function Learned in day 11 - 20</h4></li></ul>
+<ol>
+    <li><pre><code>Coming Soon...</code></pre></li>
+</ol>
 
 <strong>
     <p>I request you to try and solve the challenges yourself by taking help from the readme.md files, as I have
