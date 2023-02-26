@@ -1,4 +1,4 @@
-<h1>#50DAYSOFJAVASCRIPTCHALLENGE - DAY 2</h1>
+<h2>#50DaysofJavascriptChallenge - Day 2</h2>
 
 <h3>TODO: Write a program to reverse a string</h3>
 
@@ -9,7 +9,7 @@
     <li>reverseAString("codedamn") should return "nmadedoc"</li>
 </ul>
 
-<h3>function used</h3>
+<h4>function used</h4>
 <ul>
     <li> <strong>split() :</strong> This function splits an string into an array of substrings.
         <pre><code>let str = 'JavaScript'
