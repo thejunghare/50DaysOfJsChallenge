@@ -16,17 +16,21 @@
         <h3>Javascript function used</h3>
     </li>
     <ol>
-        <li> <strong>split() :</strong> This function splits an string into an array of substrings.<br></li>
-        <pre><code>
+        <li> <strong>split() :</strong> This function splits an string into an array of substrings.
+            Example :
+            <pre><code>
             let str = 'JavaScript'
             console.log(str.split(" "))
-            // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r',
+            // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r',]
         </code></pre>
+        </li>
 
-        <li>
-            <strong>reverse() : </strong> This function reverse an given array.
-            <br>
-            Example: <code>console.log(Math.random()) // expected output: Any random value from 0 - 1</code>
+        <li><strong>reverse() : </strong> This function reverse an given array.
+            Example:
+            <pre><code>
+            console.log(Math.random())
+            // expected output: Any random value from 0 - 1
+        </code></pre>
         </li>
         <li>
             <strong>join() : </strong> This function returns an array as string
