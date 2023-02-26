@@ -1,13 +1,3 @@
-<!-- style -->
-<style>
-    code {
-        color: crimson;
-        background-color: #f1f1f1;
-        padding: 2px;
-        font-size: 105%;
-    }
-</style>
-
 <h1>Function which returns a random number in the given range</h1>
 
 <h3> TODO: Create a function which returns a random number in the given range of values both inclusive </h3>
@@ -32,7 +22,7 @@
         <li>
             <strong>Math.random() : </strong> This function returns a random number from range of 0 - 1
             <br>
-            <strong>NOTE : </strong> <i>Here 0 is inclusive and 1 is exclusive</i>
+            <i>NOTE : Here 0 is inclusive and 1 is exclusive</i>
             <br>
             Example: <code>console.log(Math.random()) // expected output: Any random value from 0 - 1</code>
         </li>
