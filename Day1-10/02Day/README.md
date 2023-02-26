@@ -16,14 +16,13 @@
         <h3>Javascript function used</h3>
     </li>
     <ol>
-        <li> <strong>split() :</strong> This function splits an string into an array of substrings.
-            <br>
-            <code>
-                    let str = 'JavaScript' <br>
-                    console.log(str.split(" ")) ,<br>
-                    // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r', 'i', 'p', 't']
-            </code>
-        </li>
+        <li> <strong>split() :</strong> This function splits an string into an array of substrings.<br></li>
+        <pre><code>
+            let str = 'JavaScript'
+            console.log(str.split(" "))
+            // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r',
+        </code></pre>
+
         <li>
             <strong>reverse() : </strong> This function reverse an given array.
             <br>
