@@ -11,14 +11,32 @@
     <p>/** If you like my work dont forget to star this repository and follow @loremcodes. **/</p>
 </strong>
 
+<strong>
+    <p>/** Explanation to all the function have been given in their particular used day. **/</p>
+</strong>
+
 <ul><li><h4>Function Learned in day 1 - 10</h4></li></ul>
 
 <ol>
-    <li><pre><code>Math.floor() //  returns down number to nearset integer</code></pre></li>
-    <li><pre><code>Math.random() // returns random from 0 -1</code></pre></li>
-    <li><pre><code>Math.split() // splits a string into a array of substrings</code></pre></li>
-    <li><pre><code>Math.reverse() // reverse an array</code></pre></li>
-    <li><pre><code>Math.join() // returns an array as string</code></pre></li>
+    <li><pre><code>Math.floor()</code></pre></li>
+    <li><pre><code>Math.random()</code></pre></li>
+    <li><pre><code>Math.split()</code></pre></li>
+    <li><pre><code>Math.reverse()</code></pre></li>
+    <li><pre><code>Math.join()</code></pre></li>
+    <li><pre><code>substr()</code></pre></li>
+    <li><pre><code>chartAt()</code></pre></li>
+    <li><pre><code>toString()</code></pre></li>
+    <li><pre><code>parseFloat()</code></pre></li>
+    <li><pre><code>Math.sign()</code></pre></li>
+    <li><pre><code>slice()</code></pre></li>
+    <li><pre><code>padStart()</code></pre></li>
+    <li><pre><code>endsWith()</code></pre></li>
+    <li><pre><code>indexOf()</code></pre></li>
+    <li><pre><code>lastIndexOf()</code></pre></li>
+    <li><pre><code>startsWith()</code></pre></li>
+    <li><pre><code>splice()</code></pre></li>
+    <li><pre><code>Dates()</code></pre></li>
+    <li><pre><code>objets.key()</code></pre></li>
 </ol>
 
 <ul><li><h4>Function Learned in day 11 - 20</h4></li></ul>
