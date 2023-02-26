@@ -1,3 +1,13 @@
+<!-- style -->
+<style>
+    code {
+        color: crimson;
+        background-color: #f1f1f1;
+        padding: 2px;
+        font-size: 105%;
+    }
+</style>
+
 <h1>Function which returns a random number in the given range</h1>
 
 <h3> TODO: Create a function which returns a random number in the given range of values both inclusive </h3>
@@ -15,14 +25,14 @@
         <h3>Javascript function used</h3>
     </li>
     <ol>
-        <li> Math.floor() : This function returns a number down to the nearest integer.
+        <li> <strong>Math.floor() :</strong> This function returns a number down to the nearest integer.
             <br>
             Example: <code>let number = 0 console.log(number.floor(number)) // expected output: 1</code>
         </li>
         <li>
-            Math.random(): This function returns a random number from range of 0 - 1
+            <strong>Math.random() : </strong> This function returns a random number from range of 0 - 1
             <br>
-            <strong>NOTE: </strong> <i>Here 0 is inclusive and 1 is exclusive</i>
+            <strong>NOTE : </strong> <i>Here 0 is inclusive and 1 is exclusive</i>
             <br>
             Example: <code>console.log(Math.random()) // expected output: Any random value from 0 - 1</code>
         </li>
