@@ -2,20 +2,15 @@
 
 <h3>TODO: Write a program to reverse a string</h3>
 
-<!-- <ul>
-    <li>Test case</li>
-    <ol>
-        <li>reverseAString("JavaScript is awesome") should return "emosewa si tpircSavaJ"</li>
-        <li>reverseAString("Peter Parker is Spiderman") should return "namredipS si rekraP reteP"</li>
-        <li>reverseAString("codedamn") should return "nmadedoc"</li>
-    </ol>
-</ul>
-<ul> -->
-
+<h4>Test case</h4>
 <ul>
-    <li>
-        Javascript function used
-    </li>
+    <li>reverseAString("JavaScript is awesome") should return "emosewa si tpircSavaJ"</li>
+    <li>reverseAString("Peter Parker is Spiderman") should return "namredipS si rekraP reteP"</li>
+    <li>reverseAString("codedamn") should return "nmadedoc"</li>
+</ul>
+
+<h3>function used</h3>
+<ul>
     <li> <strong>split() :</strong> This function splits an string into an array of substrings.
         Example :
         <pre><code>
