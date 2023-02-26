@@ -22,7 +22,6 @@
             console.log(str.split(" "))
             // expected output: ['J', 'a', 'v', 'a', 'S', 'c', 'r',
         </code></pre>
-
         <li>
             <strong>reverse() : </strong> This function reverse an given array.
             <br>
