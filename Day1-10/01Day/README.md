@@ -15,14 +15,16 @@
         <h3>Javascript function used</h3>
     </li>
     <ol>
-        <li> Math.floor() : This function returns a number down to the nearest integer. <br>
-            Example: <code>let number = 0.6 
-                console.log(number.floor(number))
-                // expected output: 1</code>
+        <li> Math.floor() : This function returns a number down to the nearest integer.
+            <br>
+            Example: <code>let number = 0 console.log(number.floor(number)) // expected output: 1</code>
         </li>
         <li>
             Math.random(): This function returns a random number from range of 0 - 1
-            NOTE: Here 0 is inclusive and 1 is exclusive
+            <br>
+            <strong>NOTE: </strong> <i>Here 0 is inclusive and 1 is exclusive</i>
+            <br>
+            Example: <code>console.log(Math.random()) // expected output: 1</code>
         </li>
     </ol>
 </ul>
