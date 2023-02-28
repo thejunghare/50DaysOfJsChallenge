@@ -1,15 +1,15 @@
 <h2>#50DaysofJavascriptChallenge - Day 11</h2>
 
-<h3><strong>TODO : </strong> Return the N-th value of the Fibonacci sequence</h3>
+<h3><strong>TODO : </strong> Return the N-th value of the Fibonacci sequence.</h3>
 
 <h4><strong>Test case : </strong></h4>
 <ul>
-    <li>function fibonacci(n) returns the N-th value of the Fibonacci sequence</li>
+    <li>function fibonacci(n) returns the N-th value of the Fibonacci sequence.</li>
 </ul>
 
 <h4><strong>What is fabonaci series? : </strong></h4>
 <ul>
-    <li>fabonaci series is the sum of the two preceding ones. The sequence commonly starts from 0 and 1</li>
+    <li>fabonaci series is the sum of the two preceding ones. The sequence commonly starts from 0 and 1, hence next two numbers would be 1 and 2 which are sum of 0 and 1 and 1, 1 respectively.</li>
 </ul>
 
 <h4><strong>Solution and Logic : </strong></h4>
