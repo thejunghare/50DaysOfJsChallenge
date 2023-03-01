@@ -51,6 +51,7 @@ lowercase equivalent, e.g brown instead of Brown.
 <h4><strong>Solution and Logic : </strong></h4>
 <ul>
     <li>look in app.js file for solution and logic</li>
+    <li>I have used switch case statement, you can use any other solution that works for you</li>
 </ul>
 
 <strong>
