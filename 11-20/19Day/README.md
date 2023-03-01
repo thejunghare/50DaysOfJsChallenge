@@ -8,14 +8,13 @@
 <ol>
     <li>Each resistor has a resistance value.</li>
     <li>Resistors are small - so small in fact that if you printed the resistance value on them, it would be
-        hard to read.
+        hard to read. To get around this problem, manufacturers print color-coded bands onto the resistors to denote their resistance values. Each band has a position and a numeric value.
+        The first 2 bands of a resistor have a simple encoding scheme: each color maps to a single number.
+        In this exercise you are going to create a helpful program so that you don't have to remember the values of the
+        bands.
     </li>
 </ol>
-To get around this problem, manufacturers print color-coded bands onto the resistors to denote their resistance
-values. Each band has a position and a numeric value. <br>
-The first 2 bands of a resistor have a simple encoding scheme: each color maps to a single number. <br>
-In this exercise you are going to create a helpful program so that you don't have to remember the values of the
-bands. <br>
+<br>
 These colors are encoded as follows: <br>
 <ol>
     <li>Black: 0</li>
@@ -36,16 +35,12 @@ These colors are encoded as follows: <br>
         <li>to look up the numerical value associated with a particular color band</li>
         <li>to list the different band colors</li>
     </ol>
-
-<br>
     Mnemonics map the colors to the numbers, that, when stored as an array, happen to map to their index in the
     array: Better Be Right Or Your Great Big Values Go Wrong.
 
 </p>
 <h4><strong>Note : </strong>
-        Although the color names are capitalised in the description, the function colorCode will always be called with
-        the
-        lowercase equivalent, e.g brown instead of Brown.
+    Although the color names are capitalised in the description, the function colorCode will always be called with the lowercase equivalent, e.g brown instead of Brown.
 </h4>
 
 <h4><strong>Test case : </strong></h4>
@@ -60,8 +55,5 @@ These colors are encoded as follows: <br>
 </ul>
 
 <strong>
-    <p>I request you to try and solve the challenges yourself by taking help from the readme.md files, as I have
-            provided solution to all the challenges. I am happy to provide you with my solutions if you are unable to
-            solve
-            the problem.</p>
+    <p>I request you to try and solve the challenges yourself by taking help from the readme.md files, as I have provided solution to all the challenges. I am happy to provide you with my solutions if you are unable to solve the problem.</p>
 </strong>
