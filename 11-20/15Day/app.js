@@ -33,5 +33,13 @@ const isPangram = (input) => {
         return true
     }
 
+	/* More shorter solution */
+	
+	/* 
+ 	let result = 'abcdefghijklmnopqrstuvwxyz'.split('').filter(a => { if (!input.includes(a)) return a }).length > 0 ? false : true
+
+    return result	
+  */
+
 	
 }
