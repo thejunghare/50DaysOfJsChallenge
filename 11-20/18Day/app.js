@@ -1,14 +1,18 @@
 let totalGrains = () => {
     let total = BigInt(0);
-    for (let i = 1; i <= 64; i++) {
-        total += grainOn(i);
+  for (let i = 1; i <= 64; i++) {
+    total += grainsOn(i);
+  }
+  return total;
+}
+
+let grainsOn = (input) => {
+    let result = 1
+    for (let i = 1; i < input; i++){
+        result *= 2
     }
-    return total;
-}
 
-let grainOn = (input) => {
-    return BigInt(2 ** (input - 1));
+    return BigInt(result)
 }
-
-console.log(grainOn(5))
-console.log(totalGrains())
+console.log(`Grains on 5th square: ${grainsOn(5)}`)
+console.log(`Total grains upto 5th square: ${totalGrains(5)}`)
