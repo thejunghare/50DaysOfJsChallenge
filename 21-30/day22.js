@@ -21,7 +21,7 @@
 
 let uniqueInOrder = (iterable) => {
     return iterable.filter((element, index) => element !== iterable[index - 1]);
-  
+
     /* 
       // return  [...iterable].filter((element, index) => element !== iterable[index - 1]);
       If you used these return statement instead, code from line number 31 - 50 is useless as this will 
@@ -32,12 +32,12 @@ let uniqueInOrder = (iterable) => {
 
 // For iterable type string
 let forString = (iterable) => {
-    return removeDuplicateElements([...iterable]);
+    return uniqueInOrder([...iterable]);
 };
 
 // For iterable type array / object
 let forArray = (iterable) => {
-    return removeDuplicateElements(iterable);
+    return uniqueInOrder(iterable);
 };
 
 // Find type of iterable
