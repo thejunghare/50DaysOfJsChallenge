@@ -3,10 +3,10 @@
 This repository contains my solutions to the "50 Days of JavaScript Challenge" by codedamn. Each day of the challenge focuses on a different JavaScript concept or topic, and I have provided my implementation for each challenge.
 
 ## Table of Contents
-1. About the Challenge
-2. Usage
-3. Contributing
-4. License
+- **About the Challenge**
+- **Usage**
+- **Contributing**
+- **License**
 
 ## About the Challenge
 
