@@ -1,19 +1,23 @@
 function findEvenIndex(arr) {
-    let sum = 0, leftsum = 0, rightsum = 0;
+    for (let i = 0; i < arr.length - 1; i++) {
+        let rightSum = 0;
+        let leftSum = 0;
 
-    for (let i = 0; i <= arr.length - 1; i++) {
-        console.log("Value of " + arr[i])
-        sum += arr[i]
+        // calculate the sum of elments on the left side
+        for (let j = 0; j < i; j++) {
+            leftSum += arr[j];
+        }
+
+        // Calculate the sum of elements on the right side
+        for (let j = i + 1; j < arr.length; j++) {
+            rightSum += arr[j];
+        }
+
+        if (rightSum === leftSum) {
+            return i;
+        }
+
     }
 
-    console.log(sum)
- 
-    if (rightsum == leftsum) {
-        return true
-    } else {
-        return false
-    }
+    return -1
 }
-
-const arr = [1, 2, 3, 4, 3, 2, 1]
-findEvenIndex(arr)
