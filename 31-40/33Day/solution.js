@@ -1,4 +1,6 @@
 function set(arrOfNum) {
+
+    // using includes and push methods
     /* var empty = []
 
     arrOfNum.forEach(function (item) {
@@ -9,7 +11,7 @@ function set(arrOfNum) {
 
     return empty */
 
-    
+    // uisng  map method
     /* let arr = new Map()
     var empty = []
 
@@ -25,7 +27,8 @@ function set(arrOfNum) {
 
 
 
-    // using set function
+    // using new set Method
+    // The set remove all the duplicate element of an array
 
     /*  
     const newValues = new Set(arrOfNum)
