@@ -4,7 +4,7 @@ function largestElement(arr, n) {
     for (let i = 0; i <= n; i++) {
         if (largest < arr[i]) {
             largest = arr[i]
-        }
+        } 
     }
 
     return largest
